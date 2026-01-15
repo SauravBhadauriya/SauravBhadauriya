@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Dev @ProqureX  <br>👨‍💻 Web dev <br>| REACT JS | NEXT JS | Shadcn UI | Tailwind CSS | Bootstrap | JavaScript
+Software Dev @RewardsPlus  <br>👨‍💻 Web dev <br>| REACT JS | NEXT JS | Shadcn UI | Tailwind CSS | Bootstrap | JavaScript
 
 
 ## 🌐 Socials:
