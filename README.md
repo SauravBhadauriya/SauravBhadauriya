@@ -5,7 +5,7 @@ Software Dev @RewardsPlus  <br>👨‍💻 Web dev <br>| REACT JS | NEXT JS | Sh
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sauravbhaauriya17)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://saurav-singh-frontend-developer-por.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/saurav-singh-163a9223a](https://www.linkedin.com/in/saurav-singh-developer/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/saurav-singh-developer/](https://www.linkedin.com/in/saurav-singh-developer/))
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saurav_thakur17)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saurav_thakur17)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sauravbhaauriya17)
